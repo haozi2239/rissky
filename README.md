@@ -12,3 +12,4 @@ riskEn.py xxx.csv
 效果如下
 ![image](https://user-images.githubusercontent.com/118237692/236750859-810c72fc-9792-461c-92f8-87fe3ac89ce0.png)
 ![image](https://user-images.githubusercontent.com/118237692/236750905-4b56c7e5-37e3-4ce6-a236-7df04f7ee070.png)
+如果觉得还可以就点个star把~
